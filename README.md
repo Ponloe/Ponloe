@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Sophomore at Paragon University in Cambodia<br>🤝 I’m looking for help with solving problems and building projects<br>🌱 I’m currently a CS major.<br>⚡ Fun fact I like to code and tinker with keyboarrds
+🔭 I’m currently a Sophomore at Paragon University in Cambodia<br>🤝 I’m looking for help with solving problems and building projects<br>🌱 I’m currently a CS major.<br>⚡ Fun fact I like to code and tinker with keyboards
 
 
 ## 🌐 Socials:
