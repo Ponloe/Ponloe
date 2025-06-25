@@ -1,6 +1,7 @@
 # 👋 bonjour! I'm Ponloe
 
-I'm a Computer Science student at Paragon International University.
+I'm a Computer Science student at Paragon International University, currently surviving caffeine-fueled coding sessions and debugging existential crises.
+🎯 Current status: learning, building, occasionally Googling "how to center a div".
 
 ## 💼 Experience
 - **Software Engineering Intern @ SQUEEEZE** – Built a shift management system with Django, handled backend architecture and database design.
