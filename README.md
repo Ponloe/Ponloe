@@ -3,7 +3,7 @@
 I'm a Computer Science student at Paragon International University, currently surviving caffeine-fueled coding sessions and debugging existential crises. Learning, building, occasionally Googling "how to center a div".
 
 ## 💼 Experience
-- **Software Engineering Intern @ SQUEEEZE** – Built a shift management system with Django, handled backend architecture and database design.
+- **Software Engineering Intern @ SQUEEEZE** – Built a shift management system with React for the frontend and Supabase for the backend, handled backend architecture and database design.
 - **Techpreneur Bootcamp** – A 9-month program blending full-stack dev with startup thinking, co-hosted by DICHI Academy and Qwasar Silicon Valley.
 
 ## 🧰 Stacks 
