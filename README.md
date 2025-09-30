@@ -1,4 +1,4 @@
-# 👋 bonjour! I'm Ponloe
+# Hey im ponloe
 
 I'm a Computer Science student at Paragon International University, currently surviving caffeine-fueled coding sessions and debugging existential crises. Learning, building, occasionally Googling "how to center a div".
 
